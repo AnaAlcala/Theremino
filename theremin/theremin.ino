@@ -1,5 +1,5 @@
-#define trigger 2
-#define echo 3
+#define trigger 3
+#define echo 2
 #define max_distance 200
 void setup() {
   // put your setup code here, to run once:
